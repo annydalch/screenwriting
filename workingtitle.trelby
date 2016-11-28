@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:50
-Cursor/Column:7
+Cursor/Line:89
+Cursor/Column:23
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -175,35 +175,37 @@ Words:0
 #Header-Empty-Lines 1
 #Start-Script 
 .\int. Learner's basement
->%Learner and Master sit side by side on the couch.  On
->%the (messy) coffee table is Learner's Gamecube
->%controller.  Master has a professional-looking
-.%messenger bag on the ground next to him.
+>.Learner and Master sit side by side on the couch.  On the
+>.(messy) coffee table is Learner's Gamecube controller. 
+>.Master has a professional-looking messenger bag on the
+..ground next to him.
 ._Master
 >:Where is the controller you use to
 .:practice?
-._Learner
-..Gestures to the controller on the table
+..Learner gestures to the controller on the table
+._LEARNER
 >:It's a custom-built, hand painted
 >:controller made by this weird
 >:recluse in Taiwan.  All the pros
 .:use them.
 ._MASTER
 .:Wrong answer.
-..Pulls a cheap generic controller out of his bag.
+..Master pulls a cheap generic controller out of his bag.
+._MASTER
 .:From now on you practice with this.
+..Learner takes the controller.
 ._LEARNER
-..Takes the controller.
 .:This thing is garbage.
 .=Learner's hands testing the controller
+._LEARNER
 >:The buttons are sticky, the d-stick
 >:is off-center, and it's so light I
 >:feel like it'll float out of my
 >:hands.  I'll lose more stocks to
 >:this piece of shit than I will to
 .:my opponents.
-._MASTER
 ..Takes the controller back from Learner.
+._MASTER
 >:Allow me to demonstrate.  Two
 >:stocks.  You with your controller,
 .:me with mine.
@@ -216,12 +218,49 @@ Words:0
 .=Learner's hands on controller
 .=Second ko
 .=Both sitting on couch
->%Learner is sweating and visibly invested in the game he
-.%just lost.  Master is completely relaxed.
-._LEARNER
-..Tosses controller onto coffee table, slumps backwards.
+>.Learner is sweating and visibly invested in the game he just
+..lost.  Master is completely relaxed.
+>.Learner tosses controller onto coffee table, slumps
+..backwards.
+..Master hands Learner the cheap controller.
 ._MASTER
-..Hands Learner the cheap controller.
 >:For tonight, practice with that. 
 >:You will be using it for tomorrow's
 .:lesson.
+|.
+..Master gets up, gathers bag, leaves.
+.\Ext. Master's home - morning
+>.Learner, visibly tired, disheveled, unkempt, rings doorbell. 
+..Master, wearing pajamas and holding a coffee mug, answers.
+._MASTER
+.((concerned)
+.:Are you alright?
+._LEARNER
+>:I've been practicing.  I mastered
+.:all the combos.
+._MASTER
+.((sternly)
+.:Did you get any sleep?
+._LEARNER
+.:A few hours.
+._MASTER
+.((disappointed)
+.:Have you eaten?
+._LEARNER
+.((ashamed)
+.:No.
+._MASTER
+.:When did you last bathe?
+._LEARNER
+>:I've been putting everything I have
+.:into my practice.
+._MASTER
+>:You'll never win if you let your
+.:life fall apart.
+._LEARNER
+.:But-
+._MASTER
+>:Go home.  Get some rest.  Eat
+>:something.  Take a shower.  Come
+.:back tomorrow.
+..Master closes the door.
