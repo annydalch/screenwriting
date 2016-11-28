@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:0
-Cursor/Column:0
+Cursor/Line:25
+Cursor/Column:6
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -174,4 +174,29 @@ Words:0
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
-.\
+.\Learner's basement
+>%Learner and Master sit side by side on the couch.  On
+>%the (messy) coffee table is Learner's Gamecube
+>%controller.  Master has a professional-looking
+.%messenger bag on the ground next to him.
+._Master
+>:Where is the controller you use to
+.:practice?
+._Learner
+..Gestures to the controller on the table
+>:It's a custom-built, hand painted
+>:controller made by this weird
+>:recluse in Taiwan.  All the pros
+.:use them.
+._MASTER
+.:Wrong answer.
+..Pulls a cheap generic controller out of his bag
+.:From now on you practice with this.
+._LEARNER
+..Takes the controller
+.:This thing is garbage.
+.=Learner's hands testing the controller
+>:The buttons are sticky, the d-stick
+>:is off-center, and it's so light I
+>:feel like it'll float out of my
+.:hands.
