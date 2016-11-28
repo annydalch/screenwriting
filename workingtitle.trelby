@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:89
-Cursor/Column:23
+Cursor/Line:53
+Cursor/Column:0
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -227,7 +227,6 @@ Words:0
 >:For tonight, practice with that. 
 >:You will be using it for tomorrow's
 .:lesson.
-|.
 ..Master gets up, gathers bag, leaves.
 .\Ext. Master's home - morning
 >.Learner, visibly tired, disheveled, unkempt, rings doorbell. 
