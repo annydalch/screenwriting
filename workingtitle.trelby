@@ -18,6 +18,8 @@ AutoCompletion/Transition/Items/9:MATCH CUT TO:
 AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
 AutoCompletion/Transition/Items/11:SMASH CUT TO:
 AutoCompletion/Transition/Items/12:TIME CUT:
+AutoCompletion/Shot/Enabled:True
+AutoCompletion/Shot/Items:0
 #End-Auto-Completion 
 #Begin-Config 
 FontSize:12
@@ -39,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:53
-Cursor/Column:0
+Cursor/Line:40
+Cursor/Column:20
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -174,6 +176,47 @@ Words:0
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
+.\Int. Local games store
+>.Learner and Love Interest stand around before the start of a
+..local tournament chatting.
+._LEARNER
+>((beginning in middle of
+.(sentence)
+>:-so after really working on my
+>:wavedashing I think I've finally
+>:got it down and I'm feeling really
+.:good about today.
+..Local Jerk walks over, butts into conversation
+._Local jerk
+>:Well maybe you'll finally be some
+>:competition then.  I'm tired of
+>:constantly wrecking you scrubs with
+>:no challenge.  Taking home first
+>:prize every week is getting to be a
+.:real bore.
+._Love interest
+.((angry, terse)
+>:You didn't seem bored last week
+>:when I took four easy stocks off
+.:you in our first round.
+._LOCAL JERK
+>((cocky, awful, just the
+.(worst)
+>:Please.  I let you have that round. 
+>:You might as well go back to
+>:something you're good at.  Have you
+.:tried...
+..Pauses, as if thinking.
+.:Cooking?
+..Walks away looking smug.
+._LOVE INTEREST
+>((angry, hurt, biting back
+>(tears, under breath to
+.(Learner)
+.:That sexist pig!
+._LEARNER
+.((outraged)
+.:We have to beat him.
 .\int. Learner's basement
 >.Learner and Master sit side by side on the couch.  On the
 >.(messy) coffee table is Learner's Gamecube controller. 
