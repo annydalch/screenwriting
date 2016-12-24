@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:40
-Cursor/Column:20
+Cursor/Line:30
+Cursor/Column:4
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -206,9 +206,10 @@ Words:0
 >:You might as well go back to
 >:something you're good at.  Have you
 .:tried...
-..Pauses, as if thinking.
+..He pauses, as if thinking.
+._LOCAL JERK
 .:Cooking?
-..Walks away looking smug.
+..Local Jerk walks away looking smug.
 ._LOVE INTEREST
 >((angry, hurt, biting back
 >(tears, under breath to
